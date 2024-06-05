@@ -24,4 +24,5 @@ Meme Generator is a web application that enables users to dynamically create and
 <img width="668" alt="Screenshot 2024-06-05 at 10 59 22 AM" src="https://github.com/VishMenon23/Meme-Generator/assets/122495446/f5bc7422-c23d-4b91-a30a-85bb758ddfa7">
 
 Light Mode - 
+
 <img width="666" alt="Screenshot 2024-06-05 at 11 01 27 AM" src="https://github.com/VishMenon23/Meme-Generator/assets/122495446/501673c8-ec3d-45eb-b14a-00ab59367ecf">
